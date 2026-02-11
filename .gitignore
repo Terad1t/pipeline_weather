@@ -5,6 +5,10 @@ build/
 dist/
 wheels/
 *.egg-info
+config/.env
 
 # Virtual environments
 .venv
+
+# PyCharm project files
+.idea/
