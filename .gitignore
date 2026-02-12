@@ -6,9 +6,11 @@ dist/
 wheels/
 *.egg-info
 config/.env
+.env
 
 # Virtual environments
 .venv
 
 # PyCharm project files
 .idea/
+config/.airflow.cfg/
